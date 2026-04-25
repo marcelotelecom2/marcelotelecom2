@@ -117,6 +117,12 @@ From Network Engineer to AIOps Architect — building intelligent systems for mo
 
 ---
 
+## 🎯 Mission
+
+Transform network operations through AI, automation and intelligent systems.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
