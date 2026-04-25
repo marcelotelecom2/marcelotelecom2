@@ -101,5 +101,11 @@ Linux | Git | Docker
 
 - LinkedIn: https://www.linkedin.com/in/walter-rodrigues-b89716234/
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=tokyonight)
+
 
 
