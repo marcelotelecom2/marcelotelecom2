@@ -76,6 +76,50 @@ Research and development of specialized LLMs for network operations
 ✔ AI agents for operations  
 ✔ RAG and automation  
 
+<table>
+<tr>
+<td width="33%">
+
+### 🧩 open-noc-ai
+
+Open Source AIOps platform
+
+✔ Multi-agent architecture  
+✔ Network automation  
+✔ LLM troubleshooting  
+
+<a href="https://github.com/marcelotelecom2">
+<img src="https://img.shields.io/badge/View-Repo-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="33%">
+
+### 🧠 net-noc-ai
+
+LLM platform for network ops
+
+✔ Fine-tuning  
+✔ RAG  
+✔ Automation  
+
+</td>
+
+<td width="33%">
+
+### ⚙️ CAQ Platform
+
+Automation & Quality
+
+✔ Compliance  
+✔ Dashboards  
+✔ Integration  
+
+</td>
+
+</tr>
+</table>
 ---
 
 ### ⚙️ CAQ Platform
