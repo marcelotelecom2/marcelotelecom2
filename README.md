@@ -12,16 +12,15 @@
   </a>
 </p>
 
-# Walter Rodrigues 
+<h1 align="center">Walter Rodrigues 👋</h1>
 
-## 🚀 Building AIOps Platforms for Network Operations
+<h3 align="center">
+Building AIOps Platforms for Network Operations
+</h3>
 
-
-# Walter Rodrigues
-
-## 🚀 Building AIOps Platforms for Network Operations
-
-From Network Engineer to AIOps Architect — focusing on automation, observability and intelligent operations.
+<p align="center">
+From Network Engineer to AIOps Architect — designing automation, observability and intelligent systems for NOC/SOC environments.
+</p>
 
 ---
 
