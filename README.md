@@ -2,40 +2,121 @@
   <img src="./Banner.png" width="100%">
 </p>
 
-<h1 align="center">Walter Rodrigues</h1>
+<table>
+<tr>
 
-<p align="center">
-  <strong>AIOps Architect | Network Automation | Cybersecurity | Open Source Builder</strong>
+<!-- SIDEBAR -->
+<td width="30%" valign="top">
+
+<h2>Walter Rodrigues</h2>
+
+<p><strong>AIOps Architect</strong><br>
+Network Automation<br>
+Cybersecurity<br>
+Open Source Builder</p>
+
+---
+
+📍 Brazil  
+🔗 LinkedIn  
+📧 walter.rodrigues@email.com  
+
+🟢 Available for opportunities  
+
+---
+
+### 🚀 Quick Actions
+
+<p>
+<a href="https://github.com/marcelotelecom2/open-noc-ai">
+<img src="https://img.shields.io/badge/View%20Projects-00C853?style=for-the-badge">
+</a>
 </p>
 
-<p align="center">
-Building intelligent platforms for NOC/SOC environments — automation, observability and AI-driven operations.
+<p>
+<a href="https://github.com/marcelotelecom2/open-noc-ai">
+<img src="https://img.shields.io/badge/open--noc--ai-Repository-1f2937?style=for-the-badge">
+</a>
+</p>
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge">
+</a>
+</p>
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/Download-CV-purple?style=for-the-badge">
+</a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/marcelotelecom2/open-noc-ai">
-    <img src="https://img.shields.io/badge/🚀%20Open--NOC--AI-View%20Project-0A66C2?style=for-the-badge">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/📊%20Portfolio-Coming%20Soon-1f2937?style=for-the-badge">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge">
-  </a>
-</p>
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight">
 
 ---
 
-# 🧠 About Me
+### 💻 Languages
 
-```yaml
-name: Walter Rodrigues
-role: AIOps Architect
-focus:
-  - Network Automation
-  - Observability
-  - AI for NOC/SOC
-  - Cybersecurity (ISO 27001 / NIST)
-mission: Build scalable AIOps platforms for real-world operations
+- JavaScript  
+- Python  
+- CSS  
+
+</td>
+
+<!-- MAIN CONTENT -->
+<td width="70%" valign="top">
+
+# 🚀 BUILDING AIOPS PLATFORMS  
+### FOR NETWORK OPERATIONS  
+
+Automate. Observe. Intelligently Operate.  
+
+---
+
+## 🧠 About Me
+
+I design and lead intelligent platforms for NOC/SOC environments,  
+focusing on automation, observability and AI-driven troubleshooting.
+
+Currently building:
+
+👉 **open-noc-ai** — Open Source AIOps Platform  
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 open-noc-ai (Main Project)
+
+- Multi-agent architecture  
+- Network automation (DevNet)  
+- LLM-based troubleshooting  
+- Observability & compliance  
+
+[🔗 View Repo](https://github.com/marcelotelecom2/open-noc-ai)
+
+---
+
+### 🔵 net-noc-ai
+
+- LLM fine-tuning for networking  
+- Knowledge base + vector DB  
+- AI agents for operations  
+- RAG + automation  
+
+---
+
+### 🟣 CAQ Platform
+
+- Process automation  
+- Compliance validation  
+- Inventory integration  
+- Dashboards  
+
+---
+
+## 🧩 Architecture Vision
