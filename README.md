@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="./Banner.png" alt="AIOps banner" width="100%" />
+  <img src="./Banner.png" width="100%">
 </p>
 
 <table>
 <tr>
 
 <!-- SIDEBAR -->
-<td width="30%" valign="top">
+<td width="25%" valign="top">
+
+<p align="center">
+  <img src="./Avatar.png" width="140">
+</p>
 
 <h2 align="center">Walter Rodrigues</h2>
-<p align="center"><strong>@marcelotelecom2</strong></p>
+<p align="center"><strong>marcelotelecom2</strong></p>
 
 <p align="center">
 AIOps Architect<br>
@@ -20,187 +24,157 @@ Open Source Builder
 
 ---
 
-### 📍 Contact
+### 📍 Info
 
-- 🇧🇷 Brazil
-- 🔗 [linkedin.com/in/walter-rodrigues-ba9716234](https://linkedin.com/in/walter-rodrigues-ba9716234)
-- 📧 walter.rodrigues@email.com
-- 🟢 **Available for opportunities**
+- 🌎 Brazil  
+- 🔗 LinkedIn  
+- ✉️ Email  
+- 🟢 Available  
 
 ---
 
-### 🚀 Quick Actions
+### 🚀 Actions
 
-<p>
-  <a href="https://github.com/marcelotelecom2?tab=repositories">
-    <img src="https://img.shields.io/badge/%20View%20My%20Projects-00C853?style=for-the-badge&logo=code&logoColor=white" alt="View projects" />
+<p align="center">
+  <a href="https://github.com/marcelotelecom2">
+    <img src="https://img.shields.io/badge/Projects-00C853?style=for-the-badge">
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/marcelotelecom2/open-noc-ai">
-    <img src="https://img.shields.io/badge/%20open--noc--ai%20Repository-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="open-noc-ai repo" />
+    <img src="https://img.shields.io/badge/open--noc--ai-1f2937?style=for-the-badge">
   </a>
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/walter-rodrigues-ba9716234">
-    <img src="https://img.shields.io/badge/%20Connect%20on%20LinkedIn-5B2EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p>
+<p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/%20Download%20CV-1565C0?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" />
+    <img src="https://img.shields.io/badge/LinkedIn-5B2EFF?style=for-the-badge">
   </a>
 </p>
 
-<p>
-  <a href="mailto:walter.rodrigues@email.com">
-    <img src="https://img.shields.io/badge/%20Contact%20Me-F9A825?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Contact-F9A825?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=tokyonight" alt="Top languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=tokyonight" width="100%">
 
 </td>
 
-<!-- MAIN CONTENT -->
-<td width="70%" valign="top">
+<!-- MAIN -->
+<td width="75%" valign="top">
 
-# BUILDING AIOPS PLATFORMS
+# 🚀 BUILDING AIOPS PLATFORMS  
 ## FOR NETWORK OPERATIONS
 
-### Automate. Observe. Intelligently Operate.
-
-`AIOps` • `Network Automation` • `Cybersecurity` • `Open Source`
+### Automate • Observe • Intelligently Operate
 
 ---
-
-## 👤 ABOUT ME
-
-I design and lead the development of intelligent platforms for network operations (**NOC/SOC**),
-with focus on **automation**, **observability**, and **AI-driven troubleshooting**.
-
-Currently leading **open-noc-ai**, an open source AIOps platform that integrates LLMs,
-network automation, and operational intelligence.
-
----
-
-## ✅ WHAT I DO
-
-- AIOps for NOC/SOC
-- Network automation at scale
-- AI-powered troubleshooting
-- Observability & monitoring
-- Open source platform development
-
----
-
-## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### <span style="color:#00E676">open-noc-ai</span>
+<td width="60%" valign="top">
 
-Open source AIOps platform for NOC/SOC operations.
+## 👤 About Me
 
-- ✅ Multi-agent architecture
-- ✅ Network automation (DevNet)
-- ✅ LLM-based troubleshooting
-- ✅ Observability & compliance validation
+I design and lead intelligent platforms for **NOC/SOC operations**, focused on:
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelotelecom2/open-noc-ai)
+- Automation  
+- Observability  
+- AI-driven troubleshooting  
 
-</td>
-<td width="33%" valign="top">
+Currently building:
 
-### <span style="color:#4D8DFF">net-noc-ai</span>
-
-R&D of specialized LLMs for network operations.
-
-- ✅ LLM fine-tuning for networking
-- ✅ Knowledge base & vector database
-- ✅ AI agents for operations
-- ✅ RAG and automation
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white)](#)
+- **open-noc-ai**
+- **net-noc-ai**
+- **CAQ Platform**
 
 </td>
-<td width="33%" valign="top">
 
-### <span style="color:#B388FF">CAQ Platform</span>
+<td width="40%" valign="top">
 
-Automation and quality platform for large-scale network deployment.
+## 🧭 What I Do
 
-- ✅ Process automation
-- ✅ Compliance & quality checks
-- ✅ Integration with inventory
-- ✅ Reports and dashboards
-
-[![Repo](https://img.shields.io/badge/View%20Repo-6A1B9A?style=for-the-badge&logo=github&logoColor=white)](#)
+- ✅ AIOps for NOC/SOC  
+- ✅ Network Automation  
+- ✅ AI Troubleshooting  
+- ✅ Observability  
+- ✅ Open Source  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧩 ARCHITECTURE VISION
+## 🚀 Featured Projects
 
-`User/NOC Engineer` ➜ `Interface Layer (Web/Chat)` ➜ `LLM Layer (Ollama/OpenAI)` ➜ `Orchestrator API (Flask)` ➜ `Automation Layer (Scripts/APIs)` ➜ `Network Devices/Controllers`
+<table>
+<tr>
 
----
+<td width="33%" valign="top">
 
-## ⚙️ TECH STACK
+### 🟢 open-noc-ai
 
-### Networking
-`Cisco` `Fortinet` `TCP/IP` `Routing` `Switching`
+- Multi-agent architecture  
+- Network automation  
+- LLM troubleshooting  
+- Observability  
 
-### Automation
-`Python` `APIs` `Flask` `DevNet`
-
-### AI / AIOps
-`LLMs` `Ollama` `OpenAI` `NLP` `RAG`
-
-### Data & Observability
-`MySQL` `Power BI` `Monitoring` `Metrics`
-
-### Infrastructure
-`Linux` `Git` `Docker`
-
----
-
-## 🎯 FOCUS AREAS
-
-- AIOps for NOC/SOC
-- Network automation at scale
-- Intelligent incident response
-- Open source platforms for telecom providers
-
----
-
-## 📈 IMPACT
-
-- ✅ Reducing manual network operations through automation
-- ✅ Improving incident response with AI-driven analysis
-- ✅ Increasing operational consistency and compliance
-- ✅ Enabling scalable and efficient network operations
-
----
-
-<p align="center">
-  <strong>Thanks for visiting! Let's build the future of network operations together. 🚀</strong>
-</p>
+<a href="https://github.com/marcelotelecom2/open-noc-ai">
+<img src="https://img.shields.io/badge/View-00C853?style=for-the-badge">
+</a>
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🔵 net-noc-ai
+
+- Fine-tuned LLMs  
+- Knowledge base  
+- AI agents  
+- RAG  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🟣 CAQ Platform
+
+- Automation  
+- Compliance  
+- Inventory  
+- Dashboards  
+
+</td>
+
 </tr>
 </table>
+
+---
+
+## 🧩 Architecture
+
+```text
+User
+ ↓
+Interface (Web / WhatsApp)
+ ↓
+LLM (Ollama / OpenAI)
+ ↓
+Orchestrator (Flask)
+ ↓
+Automation
+ ↓
+Network Devices
