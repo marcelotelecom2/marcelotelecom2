@@ -65,3 +65,15 @@ Linux | Git | Docker
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/walter-rodrigues-b89716234/
+
+- <p align="center">
+  <a href="https://www.linkedin.com/in/walter-rodrigues-ba9716234/">
+    <img src="https://img.shields.io/badge/LinkedIn-Walter%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/marcelotelecom2/open-noc-ai">
+    <img src="https://img.shields.io/badge/open--noc--ai-Project-00C853?style=for-the-badge&logo=github">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AIOps-NOC%2FSOC-7C4DFF?style=for-the-badge">
+  </a>
+</p>
