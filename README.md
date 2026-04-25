@@ -16,6 +16,12 @@ From Network Engineer to AIOps Architect — designing automation, observability
 
 ---
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Projects-View-green?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Repository-open--noc--ai-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge"></a>
+</p>
+
 ## 🧠 About Me
 
 I design and build intelligent platforms for network operations (NOC/SOC), 
