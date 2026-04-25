@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h1 align="center">Walter Rodrigues 🧠⚙️</h1>
+<h1 align="center"> 🧑‍💻 Walter Rodrigues </h1>
 
 <h3 align="center">
 Building Intelligent AIOps Platforms for Real-World Network Operations
