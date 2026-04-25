@@ -7,7 +7,7 @@ AIOps | Network Automation | Cybersecurity | Open Source Platforms
 </h3>
 
 <p align="center">
-Building intelligent platforms for modern Network Operations.
+Building Intelligent AIOps Platforms for Real-World Network Operations
 </p>
 
 ---
