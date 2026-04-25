@@ -1,3 +1,5 @@
+<img src="./Banner.png" width="100%">
+
 <h1 align="center">Walter Rodrigues 🧑‍💻</h1>
 
 <h3 align="center">
