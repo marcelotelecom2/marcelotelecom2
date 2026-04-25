@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-dashboard.png" alt="Walter Rodrigues - AIOps Architect Dashboard" width="100%" />
+  <img src="./Banner.png" width="100%">
 </p>
 
 <p align="center">
