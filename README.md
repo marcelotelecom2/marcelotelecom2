@@ -47,7 +47,7 @@ combining AI, automation and observability into a single operational layer.
 
 ### 🧩 open-noc-ai
 
-🚀 Open Source AIOps platform designed to automate and scale real-world network operations
+🚀 Open Source AIOps platform to automate and scale real-world network operations
 
 ✔ Multi-agent architecture  
 ✔ Network automation (DevNet)  
