@@ -1,3 +1,5 @@
+<img src="./Banner.png" width="100%">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/walter-rodrigues-ba9716234/">
     <img src="https://img.shields.io/badge/LinkedIn-Walter%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin">
@@ -9,6 +11,10 @@
     <img src="https://img.shields.io/badge/AIOps-NOC%2FSOC-7C4DFF?style=for-the-badge">
   </a>
 </p>
+
+# Walter Rodrigues 
+
+## 🚀 Building AIOps Platforms for Network Operations
 
 
 # Walter Rodrigues
