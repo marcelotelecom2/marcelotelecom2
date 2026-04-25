@@ -1,171 +1,65 @@
-<p align="center">
-  <img src="./Banner.png" width="100%">
-</p>
+WALTER RODRIGUES | marcelotelecom2
+BUILDING AIOPS PLATFORMS FOR NETWORK OPERATIONS
+Automate. Observe. Intelligently Operate.
 
-<table>
-<tr>
+ABOUT ME
+AIOps Architect focused on network automation, cybersecurity, and open source solutions.
+I design and lead intelligent platforms for NOC and SOC operations, combining LLMs, automation, and observability.
 
-<!-- SIDEBAR -->
-<td width="30%" valign="top">
+WHAT I DO
+AIOps for NOC and SOC.
+Network automation at scale.
+AI-powered troubleshooting.
+Observability and monitoring.
+Open source platform development.
 
-<h2>Walter Rodrigues</h2>
+FEATURED PROJECTS
+open-noc-ai
+Open source AIOps platform for NOC and SOC operations.
+Multi-agent architecture.
+Network automation with DevNet.
+LLM-based troubleshooting.
+Observability and compliance validation.
+Repository: https://github.com/marcelotelecom2/open-noc-ai
 
-<p><strong>AIOps Architect</strong><br>
-Network Automation<br>
-Cybersecurity<br>
-Open Source Builder</p>
+net-noc-ai
+Research and development of specialized LLMs for network operations.
+LLM fine-tuning for networking.
+Knowledge base and vector database.
+AI agents for operations.
+RAG and automation.
 
----
+CAQ Platform
+Automation and quality platform for large-scale network deployments.
+Process automation.
+Compliance and quality checks.
+Integration with inventory.
+Reports and dashboards.
 
-📍 Brazil  
-🔗 LinkedIn  
-📧 walter.rodrigues@email.com  
+ARCHITECTURE VISION
+User or NOC Engineer to Interface Layer to LLM Layer to Orchestrator API to Automation Layer to Network Devices and Controllers.
 
-🟢 Available for opportunities  
+TECH STACK
+Networking: Cisco, Fortinet, TCP/IP, Routing, Switching.
+Automation: Python, APIs, Flask, DevNet.
+AI and AIOps: LLMs, Ollama, OpenAI, NLP, RAG.
+Data and Observability: MySQL, Power BI, Monitoring, Metrics.
+Infrastructure: Linux, Git, Docker.
 
----
+FOCUS AREAS
+AIOps for NOC and SOC.
+Network automation at scale.
+Intelligent incident response.
+Open source platforms for telecom providers.
 
-### 🚀 Quick Actions
+IMPACT
+Reducing manual network operations through automation.
+Improving incident response with AI-driven analysis.
+Increasing operational consistency and compliance.
+Enabling scalable and efficient network operations.
 
-<p>
-<a href="https://github.com/marcelotelecom2/open-noc-ai">
-<img src="https://img.shields.io/badge/View%20Projects-00C853?style=for-the-badge">
-</a>
-</p>
+CONTACT
+LinkedIn: https://linkedin.com/in/walter-rodrigues-ba9716234
+Email: walter.rodrigues@email.com
 
-<p>
-<a href="https://github.com/marcelotelecom2/open-noc-ai">
-<img src="https://img.shields.io/badge/open--noc--ai-Repository-1f2937?style=for-the-badge">
-</a>
-</p>
-
-<p>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge">
-</a>
-</p>
-
-<p>
-<a href="#">
-<img src="https://img.shields.io/badge/Download-CV-purple?style=for-the-badge">
-</a>
-</p>
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight">
-
----
-
-### 💻 Languages
-
-- JavaScript  
-- Python  
-- CSS  
-
-</td>
-
-<!-- MAIN CONTENT -->
-<td width="70%" valign="top">
-
-# 🚀 BUILDING AIOPS PLATFORMS  
-### FOR NETWORK OPERATIONS  
-
-Automate. Observe. Intelligently Operate.  
-
----
-
-## 🧠 About Me
-
-I design and lead intelligent platforms for NOC/SOC environments,  
-focusing on automation, observability and AI-driven troubleshooting.
-
-Currently building:
-
-👉 **open-noc-ai** — Open Source AIOps Platform  
-
----
-
-## 🚀 Featured Projects
-
-### 🟢 open-noc-ai (Main Project)
-
-- Multi-agent architecture  
-- Network automation (DevNet)  
-- LLM-based troubleshooting  
-- Observability & compliance  
-
-[🔗 View Repo](https://github.com/marcelotelecom2/open-noc-ai)
-
----
-
-### 🔵 net-noc-ai
-
-- LLM fine-tuning for networking  
-- Knowledge base + vector DB  
-- AI agents for operations  
-- RAG + automation  
-
----
-
-### 🟣 CAQ Platform
-
-- Process automation  
-- Compliance validation  
-- Inventory integration  
-- Dashboards  
-
----
-
-## 🧩 Architecture Vision
-
-
----
-
-## ⚙️ Tech Stack
-
-### Networking
-Cisco • Fortinet • TCP/IP • Routing • Switching  
-
-### Automation
-Python • APIs • Flask • DevNet  
-
-### AI / AIOps
-LLMs • Ollama • OpenAI • NLP • RAG  
-
-### Data & Observability
-MySQL • Power BI • Monitoring • Metrics  
-
-### Infrastructure
-Linux • Git • Docker  
-
----
-
-## 🎯 Focus Areas
-
-- AIOps for NOC/SOC  
-- Network Automation at Scale  
-- Intelligent Incident Response  
-- Open Source Platforms  
-
----
-
-## 📈 Impact
-
-✔ Reduce manual operations  
-✔ Improve incident response  
-✔ Increase operational consistency  
-✔ Enable scalable networks  
-
----
-
-<p align="center">
-<strong>Building the future of network operations 🚀</strong>
-</p>
-
-</td>
-</tr>
-</table>
-
+Thanks for visiting. Let's build the future of network operations together.
