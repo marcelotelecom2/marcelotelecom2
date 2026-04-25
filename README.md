@@ -117,6 +117,19 @@ From Network Engineer to AIOps Architect — building intelligent systems for mo
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=dark&title_color=00C853&text_color=FFFFFF&icon_color=00C853&border_color=00C853&bg_color=0D1117&border_radius=12"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=dark&title_color=00C853&text_color=FFFFFF&border_color=00C853&bg_color=0D1117&border_radius=12"
+    height="180"
+  />
+</p>
+
 ## 📫 Contact <a name="contact"></a>
 
 - LinkedIn: https://www.linkedin.com/in/walter-rodrigues-ba9716234/
