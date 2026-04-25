@@ -178,3 +178,21 @@ Orchestrator (Flask)
 Automation
  ↓
 Network Devices
+
+---
+
+<a href="https://github.com/marcelotelecom2?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Projects-00E676?style=for-the-badge&logo=github&logoColor=0A192F">
+</a>
+
+<a href="https://github.com/marcelotelecom2/open-noc-ai">
+  <img src="https://img.shields.io/badge/open--noc--ai-0A192F?style=for-the-badge&logo=github&logoColor=00E676">
+</a>
+
+<a href="https://linkedin.com/in/walter-rodrigues-ba9716234">
+  <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0A192F">
+</a>
+
+<a href="mailto:walter.rodrigues@example.com">
+  <img src="https://img.shields.io/badge/Contact-FACC15?style=for-the-badge&logo=gmail&logoColor=111827">
+</a>
