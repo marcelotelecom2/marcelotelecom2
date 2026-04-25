@@ -29,8 +29,7 @@ Automate. Observe. Intelligently Operate.
 
 ## 🚀 Platform Vision
 
-Building a new generation of **AIOps platforms** focused on real-world NOC/SOC environments,  
-combining AI, automation and observability into a single operational layer.
+Building a new generation of **AIOps platforms** focused on real-world NOC/SOC environments, combining AI, automation and observability into a single operational layer.
 
 ---
 
