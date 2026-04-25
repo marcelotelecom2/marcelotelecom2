@@ -1,13 +1,12 @@
-<img src="./banner_3000x1200.png" width="100%">
-
-<h1 align="center">🧑‍💻 Walter Rodrigues </h1>
-<p align="center">
-Building Intelligent AIOps Platforms for Real-World Network Operations
-</p>
+<h1 align="center">Walter Rodrigues 🧑‍💻</h1>
 
 <h3 align="center">
-AIOps | Network Automation | Cybersecurity | Open Source Platforms
+Building Intelligent AIOps Platforms for Network Operations
 </h3>
+
+<p align="center">
+Automate. Observe. Intelligently Operate.
+</p>
 
 ## 🧭 Journey
 
