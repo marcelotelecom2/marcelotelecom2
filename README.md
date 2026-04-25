@@ -1,21 +1,23 @@
 <table>
 <tr>
+
+<!-- SIDEBAR -->
 <td width="25%" valign="top">
 
 <p align="center">
-  <img src="./profile-logo.png" width="160">
+  <img src="./profile-logo.png" width="140">
 </p>
 
 <h2 align="center">Walter Rodrigues</h2>
 
 <p align="center">
-  <b>marcelotelecom2</b>
+<code>marcelotelecom2</code>
 </p>
 
 <p align="center">
-AIOps Architect <br>
-Network Automation <br>
-Cybersecurity <br>
+AIOps Architect<br>
+Network Automation<br>
+Cybersecurity<br>
 Open Source Builder
 </p>
 
@@ -26,48 +28,39 @@ Open Source Builder
 - 🌎 Brazil  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/walter-rodrigues-b89716234/)  
 - ✉️ walter.rodrigues@example.com  
-- ✅ Available for opportunities  
+- 🟢 Available for opportunities  
 
 ---
 
 <p align="center">
 <a href="https://github.com/marcelotelecom2?tab=repositories">
-<img src="https://img.shields.io/badge/View_My_Projects-00C853?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/View_Projects-00C853?style=for-the-badge">
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/marcelotelecom2/open-noc-ai">
-<img src="https://img.shields.io/badge/open--noc--ai_Repository-2962FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/open--noc--ai-2962FF?style=for-the-badge&logo=github">
 </a>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/walter-rodrigues-b89716234/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/Download_CV-0D1117?style=for-the-badge&logo=readme&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin">
 </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=tokyonight&hide_border=true">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=tokyonight&hide_border=true" width="100%">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=tokyonight&hide_border=true">
 
 </td>
 
+<!-- MAIN AREA -->
 <td width="75%" valign="top">
 
 <p align="center">
@@ -76,11 +69,13 @@ Open Source Builder
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
-### 🧠 ABOUT ME
+## 🧠 ABOUT ME
 
-I design and lead the development of intelligent platforms for network operations, focusing on automation, observability and AI-driven troubleshooting.
+I design and lead the development of intelligent platforms for network operations (NOC/SOC),  
+focusing on automation, observability and AI-driven troubleshooting.
 
 Currently leading the development of **open-noc-ai**, an open source AIOps platform that integrates LLMs, network automation and operational intelligence.
 
@@ -88,38 +83,40 @@ Currently leading the development of **open-noc-ai**, an open source AIOps platf
 
 <td width="35%" valign="top">
 
-### 💻 WHAT I DO
+## ⚡ WHAT I DO
 
-- ✅ AIOps for NOC/SOC  
-- ✅ Network Automation at Scale  
-- ✅ AI-Powered Troubleshooting  
-- ✅ Observability & Monitoring  
-- ✅ Open Source Platform Development  
+- ✔ AIOps for NOC/SOC  
+- ✔ Network Automation at Scale  
+- ✔ AI-Powered Troubleshooting  
+- ✔ Observability & Monitoring  
+- ✔ Open Source Development  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 🚀 FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-<h3>open-noc-ai</h3>
+### 🧩 open-noc-ai
 
-Open Source AIOps platform for NOC/SOC operations.
+Open Source AIOps platform  
 
-- ✅ Multi-agent architecture  
-- ✅ Network automation  
-- ✅ LLM-based troubleshooting  
-- ✅ Observability validation  
+- ✔ Multi-agent architecture  
+- ✔ Network automation  
+- ✔ LLM troubleshooting  
+- ✔ Observability  
 
 <p align="center">
 <a href="https://github.com/marcelotelecom2/open-noc-ai">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
@@ -127,61 +124,50 @@ Open Source AIOps platform for NOC/SOC operations.
 
 <td width="33%" valign="top">
 
-<h3>net-noc-ai</h3>
+### 🧠 net-noc-ai
 
-Research and development of specialized LLMs for network operations.
+LLM platform for network ops  
 
-- ✅ LLM fine-tuning  
-- ✅ Knowledge base  
-- ✅ AI agents for operations  
-- ✅ RAG and automation  
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/Docs-2962FF?style=for-the-badge&logo=readthedocs">
-</a>
-</p>
+- ✔ Fine-tuning  
+- ✔ Knowledge base  
+- ✔ AI agents  
+- ✔ RAG  
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>CAQ Platform</h3>
+### ⚙️ CAQ Platform
 
-Automation and quality platform for large-scale network deployment.
+Automation & Quality  
 
-- ✅ Process automation  
-- ✅ Compliance checks  
-- ✅ Inventory integration  
-- ✅ Reports and dashboards  
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-7C4DFF?style=for-the-badge&logo=github">
-</a>
-</p>
+- ✔ Compliance  
+- ✔ Dashboards  
+- ✔ Integration  
+- ✔ Reports  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 🧩 ARCHITECTURE VISION
+## 🧩 ARCHITECTURE
 
 <table>
 <tr>
-<td align="center">👤<br><b>User / NOC</b></td>
+<td align="center">👤<br>User</td>
 <td align="center">➡️</td>
-<td align="center">💬<br><b>Interface</b></td>
+<td align="center">💬<br>Interface</td>
 <td align="center">➡️</td>
-<td align="center">🧠<br><b>LLM Layer</b></td>
+<td align="center">🧠<br>LLM</td>
 <td align="center">➡️</td>
-<td align="center">⚙️<br><b>Orchestrator</b></td>
+<td align="center">⚙️<br>Orchestrator</td>
 <td align="center">➡️</td>
-<td align="center">💻<br><b>Automation</b></td>
+<td align="center">💻<br>Automation</td>
 <td align="center">➡️</td>
-<td align="center">🌐<br><b>Devices</b></td>
+<td align="center">🌐<br>Devices</td>
 </tr>
 </table>
 
@@ -189,75 +175,57 @@ Automation and quality platform for large-scale network deployment.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎯 FOCUS AREAS
+## 🎯 FOCUS
 
-<table>
-<tr>
-<td align="center">📈<br>AIOps for<br>NOC/SOC</td>
-<td align="center">🌐<br>Network Automation<br>at Scale</td>
-<td align="center">🧠<br>Intelligent Incident<br>Response</td>
-<td align="center">🚀<br>Open Source<br>Platforms</td>
-</tr>
-</table>
+- AIOps for NOC/SOC  
+- Network automation at scale  
+- Intelligent incident response  
+- Open source platforms  
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ TECH STACK
+## ⚙️ TECH STACK
 
 **Networking**  
-![Cisco](https://img.shields.io/badge/Cisco-2962FF?style=flat-square)
-![Fortinet](https://img.shields.io/badge/Fortinet-E00000?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0D1117?style=flat-square)
-![Routing](https://img.shields.io/badge/Routing-0D1117?style=flat-square)
-![Switching](https://img.shields.io/badge/Switching-0D1117?style=flat-square)
+Cisco • Fortinet • TCP/IP  
 
 **Automation**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![APIs](https://img.shields.io/badge/APIs-00C853?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask)
-![DevNet](https://img.shields.io/badge/DevNet-2962FF?style=flat-square)
+Python • APIs • Flask  
 
 **AI / AIOps**  
-![LLMs](https://img.shields.io/badge/LLMs-7C4DFF?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-00C853?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2962FF?style=flat-square)
+LLMs • Ollama • RAG  
 
-**Data & Observability**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square)
-![Monitoring](https://img.shields.io/badge/Monitoring-00C853?style=flat-square)
-![Metrics](https://img.shields.io/badge/Metrics-2962FF?style=flat-square)
+**Data**  
+MySQL • Power BI  
 
-**Infrastructure**  
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+**Infra**  
+Linux • Docker  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 📈 IMPACT
+## 📈 IMPACT
 
-- ✅ Reducing manual network operations through automation  
-- ✅ Improving incident response with AI-driven analysis  
-- ✅ Increasing operational consistency and compliance  
-- ✅ Enabling scalable and efficient network operations  
+- ✔ Reducing manual operations  
+- ✔ Faster incident response  
+- ✔ Standardization & compliance  
+- ✔ Scalable operations  
 
 ---
 
 <p align="center">
-Thanks for visiting! Let's build the future of network operations together. 🚀
+🚀 Let's build the future of network operations
 </p>
 
 </td>
 </tr>
 </table>
-
