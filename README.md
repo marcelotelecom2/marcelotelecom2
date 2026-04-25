@@ -88,14 +88,17 @@ Automation and quality platform for large-scale network deployment
 **Networking**  
 Cisco • Fortinet • TCP/IP • Routing • Switching  
 
-**Automation**  
-Python • APIs • Flask • DevNet  
+**Automation & APIs**  
+Python • Flask • FastAPI • REST APIs • DevNet  
+
+**Frontend**  
+JavaScript • TypeScript  
 
 **AI / AIOps**  
-LLMs • Ollama • OpenAI • NLP • RAG  
+LLMs • Ollama • OpenAI Developers • NLP • RAG  • Foundry • Vertex AI
 
 **Data & Observability**  
-MySQL • Power BI • Monitoring • Metrics  
+MySQL • Power BI • Monitoring • Metrics 
 
 ---
 
