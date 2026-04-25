@@ -1,43 +1,74 @@
-<img src="./banner_3000x1200.png" width="100%">
+<img src="./Banner.png" width="100%">
 
-<h1 align="center">Walter Rodrigues 🧑‍💻</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/walter-rodrigues-ba9716234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/marcelotelecom2/open-noc-ai">
+    <img src="https://img.shields.io/badge/open--noc--ai-Platform-00C853?style=for-the-badge&logo=github">
+  </a>
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/Projects-2962FF?style=for-the-badge">
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-7C4DFF?style=for-the-badge">
+  </a>
+</p>
+
+<h1 align="center">Walter Rodrigues 🧠⚙️</h1>
 
 <h3 align="center">
-Building Intelligent AIOps Platforms for Network Operations
+Building Intelligent AIOps Platforms for Real-World Network Operations
 </h3>
 
 <p align="center">
 Automate. Observe. Intelligently Operate.
 </p>
 
-## 🧠 About Me
+---
 
-I design and lead the development of intelligent platforms for network operations (NOC/SOC),  focusing on automation, observability and AI-driven troubleshooting.
+## 🚀 Platform Vision
+
+Building a new generation of **AIOps platforms** focused on real-world NOC/SOC environments,  
+combining AI, automation and observability into a single operational layer.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I Build
+
+✔ AI-driven network operations (NOC/SOC)  
+✔ Automation platforms for large-scale environments  
+✔ LLM-powered troubleshooting systems  
+✔ Observability and compliance validation  
+
+---
+
+## 🚀 Featured Projects <a name="featured-projects"></a>
 
 ### 🧩 open-noc-ai
 
-🚀 Open Source AIOps platform designed to automate and scale real-world NOC/SOC operations
+🚀 Open Source AIOps platform designed to automate and scale real-world network operations
 
 ✔ Multi-agent architecture  
 ✔ Network automation (DevNet)  
 ✔ LLM-based troubleshooting  
 ✔ Observability and compliance  
 
-[![View Repository](https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github)](https://github.com/marcelotelecom2)
+<p>
+  <a href="https://github.com/marcelotelecom2">
+    <img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github">
+  </a>
+</p>
 
 ---
 
 ### 🧠 net-noc-ai
 
-Research and development of specialized LLMs for network operations
+AI research and development focused on intelligent network operations
 
 ✔ LLM fine-tuning for networking  
-✔ AI agents for NOC operations  
-✔ RAG and knowledge base  
+✔ Knowledge base and RAG  
+✔ AI agents for NOC environments  
 
 ---
 
@@ -48,7 +79,7 @@ Automation and quality platform for large-scale network deployment
 ✔ Process automation  
 ✔ Compliance validation  
 ✔ Integration with network inventory  
-✔ Reporting and dashboards  
+✔ Operational dashboards  
 
 ---
 
@@ -79,7 +110,10 @@ MySQL • Power BI • Monitoring • Metrics
 
 ## 🧭 Journey
 
-From Network Engineer to AIOps Architect — building automation, observability and intelligent systems for modern network operations.
+From Network Engineer to AIOps Architect — building intelligent systems for modern network operations.
 
 ---
 
+## 📫 Contact <a name="contact"></a>
+
+- LinkedIn: https://www.linkedin.com/in/walter-rodrigues-ba9716234/
