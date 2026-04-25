@@ -37,9 +37,9 @@ combining AI, automation and observability into a single operational layer.
 ## 📈 Impact
 
 ✔ Reducing manual network operations  
-✔ Improving incident response with AI-driven analysis  
+✔ Improving incident response  
 ✔ Enabling scalable NOC/SOC automation  
-✔ Increasing operational consistency and reliability  
+✔ Increasing operational reliability  
 
 ---
 
