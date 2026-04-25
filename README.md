@@ -30,11 +30,9 @@ I design intelligent platforms for **NOC/SOC operations**, combining network aut
 - Creating open source tools for NOC/SOC environments
 
 ---
-
+## 🧩 Architecture Vision
+---
 <p align="center">
   Building the future of network operations 🚀
 </p>
 
----
-## 🧩 Architecture Vision
----
