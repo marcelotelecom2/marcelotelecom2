@@ -34,21 +34,40 @@ that integrates LLMs, network automation and operational intelligence.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 open-noc-ai
-Open Source AIOps platform for NOC/SOC operations
+### 🧩 open-noc-ai
 
-- Multi-agent architecture
-- Network automation (DevNet)
-- LLM-based troubleshooting
-- Observability and compliance validation
+Open Source AIOps platform for NOC/SOC
 
-### 🔹 net-noc-ai
+✔ Multi-agent architecture  
+✔ Network automation (DevNet)  
+✔ LLM-based troubleshooting  
+✔ Observability and compliance  
+
+[![View Repo](https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github)](https://github.com/marcelotelecom2)
+
+---
+
+### 🧠 net-noc-ai
+
 Research and development of specialized LLMs for network operations
 
-### 🔹 CAQ Platform
+✔ LLM fine-tuning for networking  
+✔ Knowledge base + vector DB  
+✔ AI agents for operations  
+✔ RAG and automation  
+
+---
+
+### ⚙️ CAQ Platform
+
 Automation and quality platform for large-scale network deployment
+
+✔ Process automation  
+✔ Compliance validation  
+✔ Integration with network inventory  
+✔ Reporting and dashboards  
 
 ---
 
@@ -85,9 +104,4 @@ Linux | Git | Docker
 - LinkedIn: https://www.linkedin.com/in/walter-rodrigues-b89716234/
 
 
-    <img src="https://img.shields.io/badge/open--noc--ai-Project-00C853?style=for-the-badge&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AIOps-NOC%2FSOC-7C4DFF?style=for-the-badge">
-  </a>
-</p>
+
