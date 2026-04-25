@@ -22,13 +22,33 @@ From Network Engineer to AIOps Architect — designing automation, observability
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge"></a>
 </p>
 
-## 🧠 About Me
+<table>
+<tr>
+<td width="60%">
 
-I design and build intelligent platforms for network operations (NOC/SOC), 
+### 🧠 About Me
+
+I design and build intelligent platforms for network operations (NOC/SOC),  
 focusing on automation, observability and AI-driven troubleshooting.
 
-Currently leading the development of **open-noc-ai**, an open source AIOps platform 
+Currently leading the development of **open-noc-ai**, an open source AIOps platform  
 that integrates LLMs, network automation and operational intelligence.
+
+</td>
+
+<td width="40%">
+
+### 🚀 What I Do
+
+- ✔ AIOps for NOC/SOC  
+- ✔ Network Automation at Scale  
+- ✔ AI-Powered Troubleshooting  
+- ✔ Observability & Monitoring  
+- ✔ Open Source Development  
+
+</td>
+</tr>
+</table>
 
 ---
 
