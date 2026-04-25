@@ -120,3 +120,52 @@ Currently building:
 ---
 
 ## 🧩 Architecture Vision
+
+
+---
+
+## ⚙️ Tech Stack
+
+### Networking
+Cisco • Fortinet • TCP/IP • Routing • Switching  
+
+### Automation
+Python • APIs • Flask • DevNet  
+
+### AI / AIOps
+LLMs • Ollama • OpenAI • NLP • RAG  
+
+### Data & Observability
+MySQL • Power BI • Monitoring • Metrics  
+
+### Infrastructure
+Linux • Git • Docker  
+
+---
+
+## 🎯 Focus Areas
+
+- AIOps for NOC/SOC  
+- Network Automation at Scale  
+- Intelligent Incident Response  
+- Open Source Platforms  
+
+---
+
+## 📈 Impact
+
+✔ Reduce manual operations  
+✔ Improve incident response  
+✔ Increase operational consistency  
+✔ Enable scalable networks  
+
+---
+
+<p align="center">
+<strong>Building the future of network operations 🚀</strong>
+</p>
+
+</td>
+</tr>
+</table>
+
