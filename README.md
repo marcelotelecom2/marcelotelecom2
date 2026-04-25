@@ -16,7 +16,7 @@
 
 ---
 
-## Walter Rodrigues
+## 🌐 Walter Rodrigues 
 
 **AIOps Architect | Network Automation | Cybersecurity | Open Source Builder**
 
