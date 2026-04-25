@@ -24,6 +24,13 @@ I design intelligent platforms for **NOC/SOC operations**, combining network aut
 ---
 ## 🧩 Architecture Vision
 ---
+## 📈 Impact
+
+✔ Reduce manual network operations  
+✔ Improve incident response time  
+✔ Enable scalable NOC automation  
+✔ Increase operational reliability  
+
 <p align="center">
   Building the future of network operations 🚀
 </p>
