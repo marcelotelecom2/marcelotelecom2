@@ -1,4 +1,4 @@
-<img src="./Banner.png" width="100%">
+<img src="./banner_3000x1200.png" width="100%">
 
 <h1 align="center">🧑‍💻 Walter Rodrigues </h1>
 
