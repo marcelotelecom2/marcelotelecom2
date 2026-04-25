@@ -1,6 +1,8 @@
-# Walter Rodrigues 👋
+# Walter Rodrigues
 
-🚀 AIOps | Network Automation | Cybersecurity | Open Source Platforms
+## 🚀 Building AIOps Platforms for Network Operations
+
+From Network Engineer to AIOps Architect — focusing on automation, observability and intelligent operations.
 
 ---
 
@@ -62,4 +64,4 @@ Linux | Git | Docker
 
 ## 📫 Contact
 
-- LinkedIn: (coloque aqui)
+- LinkedIn: https://www.linkedin.com/in/walter-rodrigues-b89716234/
