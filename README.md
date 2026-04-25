@@ -1,10 +1,17 @@
 <img src="./banner_3000x1200.png" width="100%">
 
 <h1 align="center">🧑‍💻 Walter Rodrigues </h1>
+<p align="center">
+Building Intelligent AIOps Platforms for Real-World Network Operations
+</p>
 
 <h3 align="center">
 AIOps | Network Automation | Cybersecurity | Open Source Platforms
 </h3>
+
+## 🧭 Journey
+
+From Network Engineer to AIOps Architect — building automation, observability and intelligent systems for modern network operations.
 
 <p align="center">
 Building Intelligent AIOps Platforms for Real-World Network Operations
