@@ -12,8 +12,7 @@ Automate. Observe. Intelligently Operate.
 
 ## 🧠 About Me
 
-I design and lead the development of intelligent platforms for network operations (NOC/SOC),  
-focusing on automation, observability and AI-driven troubleshooting.
+I design and lead the development of intelligent platforms for network operations (NOC/SOC),  focusing on automation, observability and AI-driven troubleshooting.
 
 ---
 
