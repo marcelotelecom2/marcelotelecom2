@@ -18,7 +18,7 @@
 <h1 align="center"> 🧑‍💻 Walter Rodrigues </h1>
 
 <h3 align="center">
-Building Intelligent AIOps Platforms for Real-World Network Operations
+Building AIOps Platforms for Real-World Network Operations
 </h3>
 
 <p align="center">
@@ -31,6 +31,15 @@ Automate. Observe. Intelligently Operate.
 
 Building a new generation of **AIOps platforms** focused on real-world NOC/SOC environments,  
 combining AI, automation and observability into a single operational layer.
+
+---
+
+## 📈 Impact
+
+✔ Reducing manual network operations  
+✔ Improving incident response with AI-driven analysis  
+✔ Enabling scalable NOC/SOC automation  
+✔ Increasing operational consistency and reliability  
 
 ---
 
@@ -101,13 +110,18 @@ LLMs • Ollama • OpenAI Developers • NLP • RAG  • Foundry • Vertex AI
 MySQL • Power BI • Monitoring • Metrics 
 
 ---
+## 📊 GitHub Stats
 
-## 📈 Impact
-
-✔ Reducing manual network operations  
-✔ Improving incident response with AI-driven analysis  
-✔ Enabling scalable NOC/SOC automation  
-✔ Increasing operational consistency and reliability  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=dark&title_color=00C853&text_color=FFFFFF&icon_color=00C853&border_color=00C853&bg_color=0D1117&border_radius=12"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=dark&title_color=00C853&text_color=FFFFFF&border_color=00C853&bg_color=0D1117&border_radius=12"
+    height="180"
+  />
+</p>
 
 ---
 
@@ -123,18 +137,7 @@ Transform network operations through AI, automation and intelligent systems.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=marcelotelecom2&show_icons=true&theme=dark&title_color=00C853&text_color=FFFFFF&icon_color=00C853&border_color=00C853&bg_color=0D1117&border_radius=12"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotelecom2&layout=compact&theme=dark&title_color=00C853&text_color=FFFFFF&border_color=00C853&bg_color=0D1117&border_radius=12"
-    height="180"
-  />
-</p>
 
 ## 📫 Contact <a name="contact"></a>
 
